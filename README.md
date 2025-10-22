@@ -1,2 +1,2 @@
-# Making-new-element-with-JavaScript-
-HTML elements 의 내용을 수정하고 새로운 element를 만들어 그 값을 변경하며 AutoHotkey 와 그 element로 통신
+# Making-a Box Text on a WebPage-
+HTML elements 의 내용을 수정하고 새로운 element를 만들어 그 값을 변경하여 YouTube 홈 페이지에 글자 표시
